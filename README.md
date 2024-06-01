@@ -7,8 +7,7 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/erikhutson1/cloud-soc)
  
 - <b>🦠 Malware Analysis</b>
-  - [Building a Malware Analysis Lab Environment](https://github.com/erikhutson1/malware-lab)
-  - [Malware Analysis using Wireshark](https://github.com/erikhutson1/traffic-analysis)
+  - [Building a Malware Analysis Lab Environment + Analyzing Samples](https://github.com/erikhutson1/malware-lab)
   
  
 
