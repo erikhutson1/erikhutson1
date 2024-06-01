@@ -13,7 +13,7 @@
  
 
 
-<h2>📚Learning Resources:</h2>
+<h2>📚 Learning Resources:</h2>
 
   - https://www.coursera.org
 
